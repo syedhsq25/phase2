@@ -1,0 +1,11 @@
+{
+  "name": "rot13",
+  "version": "1.0.0",
+  "description": "rot13 algorithm",
+  "main": "main.js",
+  "scripts": {
+"type":"module"
+  },
+  "author": "",
+  "license": "ISC"
+}
